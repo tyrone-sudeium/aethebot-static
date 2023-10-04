@@ -1,0 +1,1 @@
+# aethebot-static
